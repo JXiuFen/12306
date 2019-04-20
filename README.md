@@ -7,3 +7,4 @@
 <br>
 如果运行代码报错了，只需要更换代码第一行中的headers中的cookies值，在<https://www.12306.cn/index/index.htmlnetwork>中复制最新的cookies粘贴进去就行了
 
+<br>模拟登陆的思路和步骤，我在知乎有写，可以转移到知乎上看看
